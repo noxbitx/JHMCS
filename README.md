@@ -29,7 +29,7 @@ Built for landscape mode on Android. Tested on Pixel 4a (Android 13) and Galaxy 
 
 ## Quick Start
 
-1. Open fhmd.workers.dev in Chrome on your phone
+1. Open https://hmd.fhmd.workers.dev/ in       Chrome on your phone
 2. (Optional) Select startup and contact alert sounds
 3. Tap **INITIALIZE**
 4. Point your phone at the sky
